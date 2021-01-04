@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30611.23
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Projektas3.0", "Projektas3.0\Projektas3.0.vcxproj", "{B246904F-E7E8-46FD-A6FA-D36DF7EA08F8}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "ProjectInstallSetup", "ProjectInstallSetup\ProjectInstallSetup.vdproj", "{27E1DA8C-4175-42AB-AC5C-4A5AC9A5A58C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B246904F-E7E8-46FD-A6FA-D36DF7EA08F8}.Debug|x64.ActiveCfg = Debug|x64
+		{B246904F-E7E8-46FD-A6FA-D36DF7EA08F8}.Debug|x64.Build.0 = Debug|x64
+		{B246904F-E7E8-46FD-A6FA-D36DF7EA08F8}.Debug|x86.ActiveCfg = Debug|Win32
+		{B246904F-E7E8-46FD-A6FA-D36DF7EA08F8}.Debug|x86.Build.0 = Debug|Win32
+		{B246904F-E7E8-46FD-A6FA-D36DF7EA08F8}.Release|x64.ActiveCfg = Release|x64
+		{B246904F-E7E8-46FD-A6FA-D36DF7EA08F8}.Release|x64.Build.0 = Release|x64
+		{B246904F-E7E8-46FD-A6FA-D36DF7EA08F8}.Release|x86.ActiveCfg = Release|Win32
+		{B246904F-E7E8-46FD-A6FA-D36DF7EA08F8}.Release|x86.Build.0 = Release|Win32
+		{27E1DA8C-4175-42AB-AC5C-4A5AC9A5A58C}.Debug|x64.ActiveCfg = Debug
+		{27E1DA8C-4175-42AB-AC5C-4A5AC9A5A58C}.Debug|x86.ActiveCfg = Debug
+		{27E1DA8C-4175-42AB-AC5C-4A5AC9A5A58C}.Release|x64.ActiveCfg = Release
+		{27E1DA8C-4175-42AB-AC5C-4A5AC9A5A58C}.Release|x86.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B2C23EB2-DDB5-4CDF-983E-33C6E422BDDE}
+	EndGlobalSection
+EndGlobal
